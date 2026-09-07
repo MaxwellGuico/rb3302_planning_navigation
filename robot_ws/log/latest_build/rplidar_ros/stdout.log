@@ -1,6 +1,6 @@
-[  5%] Built target rplidar_client
-[ 94%] Built target rplidar_node
-[100%] Built target rplidar_composition
+[ 47%] Built target rplidar_node
+[ 94%] Built target rplidar_composition
+[100%] Built target rplidar_client
 -- Install configuration: ""
 -- Execute custom install script
 -- Up-to-date symlink: /home/ubuntu/rb3302_final_proj_code/robot_ws/install/rplidar_ros/share/rplidar_ros/launch/rplidar_launch.py
